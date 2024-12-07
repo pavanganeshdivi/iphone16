@@ -20,10 +20,10 @@ This project is a simple, responsive landing page showcasing the specifications 
 1. **Clone the repository** (if you're hosting this on GitHub) or download the source code.
    
    ```bash
-   git clone https://github.com/your-username/iphone-landing-page.git
+   git clone [https://github.com/your-username/iphone-landing-page.git](https://github.com/pavanganeshdivi/iphone16.git)
    ```
 
-2. **Open the `index.html` file** in a web browser to view the landing page.
+2. **Open the `iphone.html` file** in a web browser to view the landing page.
 
 3. Ensure you have the following files in your project directory:
    - `iphone.html` (the main HTML file)
